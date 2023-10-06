@@ -12,10 +12,6 @@ Provide a detailed description of the changes. Include the motivation for these 
 
 - Link to related issues or tickets (if applicable)
 
-### Screenshots (if applicable):
-
-Include any screenshots or GIFs that might help illustrate the changes.
-
 ### Testing:
 
 Describe the testing you've done to ensure that these changes work as expected. Include any relevant details about the environment, tools, or configurations you used.
