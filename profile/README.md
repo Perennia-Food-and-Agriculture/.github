@@ -14,3 +14,7 @@ Our vision for Nova Scotia is to be a recognized world leader in producing innov
 <br />
 The Perennia team’s number one goal is helping food-related companies grow and take advantage of new opportunities locally, nationally and internationally.
 </p>
+
+### Support 
+For support or inquiries, reach out via:
+**Email**: [devopsinquires@perennia.ca](mailto:devopsinquires@perennia.ca)
