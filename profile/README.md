@@ -16,5 +16,6 @@ The Perennia team’s number one goal is helping food-related companies grow and
 </p>
 
 ### Support 
-For support or inquiries, reach out via:
-**Email**: [devopsinquires@perennia.ca](mailto:devopsinquires@perennia.ca)
+
+- **Report an Issue**: [Help Desk](https://perennia.atlassian.net/servicedesk/customer/portal/1)
+- **Operational Status**: [Status](https://www.app-status.perennia.ca/)
